@@ -43,11 +43,12 @@ The repository is organized into three components:
   - **Weighted F1 = 0.737**  
 - Overall model performance: **0.70 – 0.737 (weighted F1)**  
 - Delivered robust per-shot intensity labels for cricket analytics dashboards.  
-- Reduced benchmarking overhead with flexiSeq, improving reproducibility and modular experimentation.  
+- Reduced benchmarking overhead with flexiSeq, improving reproducibility and modular experimentation.
+- Link to the results: [Results](https://docs.google.com/spreadsheets/d/1L5evRZV3JlXwsHqtp04aLp7al24VmQyiU6FN_iZLYUM/edit?usp=sharing)
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository Structure
 ```
 ├── flexiSeq/                 # Benchmarking framework (OOP design, model registry, training loops)
 ├── commentary_cricket_project/ # Commentary scraping & temporal alignment tools
@@ -66,13 +67,4 @@ The repository is organized into three components:
 
 ---
 
-## 📜 Citation  
-If you use this repository or build upon flexiSeq, please cite:  
-> *Pose-Based Shot Intensity Classification & flexiSeq Framework* (Dec’24 – Apr’25), Course Project under Prof. Nisheeth Srivastava, Department of Cognitive Science, IIT Kanpur.  
 
----
-
-## 👤 Author  
-**Suryansh Goel**  
-- 📧 [your email here]  
-- 🔗 [LinkedIn / GitHub link]  
